@@ -1,4 +1,4 @@
-# Здравствуй! <img src="https://giphy.com/embed/hvRJCLFzcasrR4ia7z" width="25">
+# Здравствуй! <img src="https://giphy.com/media/hvRJCLFzcasrR4ia7z" width="25">
 ### Меня зовут Мгер, и я фронтенд-разработчик
 
 **Мой технологический стек:** 
