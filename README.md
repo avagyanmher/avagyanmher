@@ -1,4 +1,20 @@
-### Hi there 👋
+# Здравствуй! <img src="https://giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
+### Меня зовут Мгер, и я фронтенд-разработчик
+
+**Мой технологический стек:** 
+* HTML
+* CSS 
+* SCSS/SASS 
+* JavaScript
+* TypeScript
+
+
+📫 Связаться со мной: 
+
+*[Telegram](https://t.me/avagyanmher) 
+*[Почта](avagyanmher04@gmail.com)
+
 
 <!--
 **avagyanmher/avagyanmher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
