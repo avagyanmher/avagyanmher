@@ -1,5 +1,4 @@
-# Здравствуй! <img src="https://giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-
+# Здравствуй! <iframe src="https://giphy.com/embed/hvRJCLFzcasrR4ia7z" width="480" height="466" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/transparent-hvRJCLFzcasrR4ia7z">via GIPHY</a></p>
 ### Меня зовут Мгер, и я фронтенд-разработчик
 
 **Мой технологический стек:** 
@@ -12,8 +11,8 @@
 
 📫 Связаться со мной: 
 
-*[Telegram](https://t.me/avagyanmher) 
-*[Почта](avagyanmher04@gmail.com)
+[Telegram](https://t.me/avagyanmher) 
+[Почта](avagyanmher04@gmail.com)
 
 
 <!--
