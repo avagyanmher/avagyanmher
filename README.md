@@ -12,7 +12,7 @@
 📫 Связаться со мной: 
 
 [Telegram](https://t.me/avagyanmher) 
-[Почта](avagyanmher04@gmail.com)
+[Почта](mailto:avagyanmher04@gmail.com)
 
 
 <!--
