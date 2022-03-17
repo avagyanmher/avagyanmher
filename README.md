@@ -6,7 +6,6 @@
 * CSS 
 * SCSS/SASS 
 * JavaScript
-* TypeScript
 
 
 📫 Связаться со мной: 
