@@ -6,7 +6,7 @@
 * CSS 
 * SCSS/SASS 
 * JavaScript
-
+* Node JS
 
 📫 Связаться со мной: 
 
