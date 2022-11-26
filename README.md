@@ -19,7 +19,7 @@
 📫 contact with me: 
 
 [Telegram](https://t.me/avagyanmher)    
-[mail](mailto:avagyanmher04@gmail.com)
+[Mail](mailto:avagyanmher04@gmail.com)
 
 
 <!--
