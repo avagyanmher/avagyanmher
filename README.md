@@ -1,17 +1,25 @@
-# Здравствуй!  👋
-### Меня зовут Мгер, и я фронтенд-разработчик
+# Hi!  👋
+### My name is Mher, and i'am a front-end dev
 
-**Мой технологический стек:** 
+**My stack:** 
 * HTML
 * CSS 
 * SCSS/SASS 
 * JavaScript
+* TypeScript
+* ReactJS
+* Angular
+* Redux
+* NPM
+* BootStrap
+* Yarn
+* TalwindCSS
 * Node JS
 
-📫 Связаться со мной: 
+📫 contact with me: 
 
 [Telegram](https://t.me/avagyanmher)    
-[Почта](mailto:avagyanmher04@gmail.com)
+[mail](mailto:avagyanmher04@gmail.com)
 
 
 <!--
