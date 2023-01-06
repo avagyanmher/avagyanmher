@@ -6,14 +6,11 @@
 * CSS 
 * SCSS/SASS 
 * JavaScript
-* TypeScript
 * ReactJS
-* Angular
 * Redux
 * NPM
 * BootStrap
 * Yarn
-* TalwindCSS
 * Node JS
 
 📫 contact with me: 
