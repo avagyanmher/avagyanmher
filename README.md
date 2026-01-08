@@ -1,5 +1,5 @@
 # Hi!  👋
-### My name is Mher, and i'am a automatisation specialist
+### My name is Mher, and i'am an automatization specialist
 
 📫 contact with me:
 
